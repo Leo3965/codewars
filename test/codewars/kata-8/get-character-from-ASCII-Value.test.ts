@@ -1,4 +1,4 @@
-import getChar from '../../src/kata-8/get-character-from-ASCII-Value'
+import getChar from '../../../src/codewars/kata-8/get-character-from-ASCII-Value'
 
 describe('Should convert ASCII to character', () => {
     it('Should return character from decimal ASCII', () => {
